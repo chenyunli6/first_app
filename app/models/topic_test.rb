@@ -1,5 +1,7 @@
+
+   
 class Topic < ApplicationRecord
-  def o
-    puts 'o'
+  def me
+     puts 'me'
   end
 end
